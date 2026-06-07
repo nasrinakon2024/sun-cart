@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "rating": 4.7,
+    "image": "UV Protection Sunglasses.jpg",
+    "description": "Stylish UV protection sunglasses perfect for summer outings."
+  },
+  {
+    "id": 2,
+    "name": "Summer Cotton Shirt",
+    "brand": "CoolWear",
+    "price": 25,
+    "rating": 4.5,
+    "image": "Summer Cotton Shirt.jpg",
+    "description": "Breathable cotton fabric designed for hot summer days."
+  },
+  {
+    "id": 3,
+    "name": "Beach Hat",
+    "brand": "SummerVibes",
+    "price": 12,
+    "rating": 4.8,
+    "image": "Beach Hat.jpg",
+    "description": "Wide-brimmed beach hat for extra sun protection."
+  },
+  {
+    "id": 4,
+    "name": "Sunscreen Lotion",
+    "brand": "DermaSun",
+    "price": 20,
+    "rating": 4.9,
+    "image": "Sunscreen Lotion.jpg",
+    "description": "High SPF protection for sensitive summer skin."
+  },
+  {
+    "id": 5,
+    "name": "Flip Flops",
+    "brand": "BeachWalk",
+    "price": 10,
+    "rating": 4.4,
+    "image": "Flip Flops.jpg",
+    "description": "Comfortable and durable flip flops for beach trips."
+  },
+  {
+    "id": 6,
+    "name": "Water Bottle",
+    "brand": "HydraFlow",
+    "price": 18,
+    "rating": 4.6,
+    "image": "Water Bottle.jpg",
+    "description": "Insulated water bottle to keep drinks cold all day."
+  }
+]
