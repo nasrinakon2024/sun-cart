@@ -6,7 +6,7 @@ export default function CartPage() {
   const { cart, removeFromCart } = useCart();
 
   // টোটাল প্রাইস ক্যালকুলেশন
-  const totalPrice = cart.reduce((acc, item) => acc + item.price, 0);
+  const totalPrice = cart.reduce((acc: number, item: any) => acc + item.price, 0);
 
   const handleCheckout = () => {
     alert("Proceeding to Checkout! (System under construction)");
